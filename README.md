@@ -56,4 +56,4 @@ This practice includes multiple SQL aggregation challenges such as:
 
 ## Preview
 
-![SQL Aggregate Practice](preview.png)
+![SQL Aggregate Practice](preview.png.png)
